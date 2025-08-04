@@ -1,1 +1,8 @@
-{"status":200,"message":"Success","data":{"api":"https://testmm-bd3ba9997875.herokuapp.com"},"meta":{"dataFrom":"Powered by MadXABhi","timestamp":"2025-07-30T03:12:33.195179Z"},"success":true}
+{
+  "status": 200,
+  "message": "Success",
+  "data": {
+    "api": "https://testmm-bd3ba9997875.herokuapp.com"
+  },
+  "success": true
+}
