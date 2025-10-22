@@ -2,7 +2,7 @@
   "status": 200,
   "message": "Success",
   "data": {
-    "api": "https://fksdhfsdsjkdgsdjfkjsdhfksjfhjs-aa51cba2e81b.herokuapp.com"
+    "api": "https://asmapiserver.onrender.com"
   },
   "success": true
 }
