@@ -2,7 +2,7 @@
   "status": 200,
   "message": "Success",
   "data": {
-    "api": "https://asmultiverse-7hjz.onrender.com"
+    "api": "https://api.asmultiverse.com"
   },
   "success": true
 }
