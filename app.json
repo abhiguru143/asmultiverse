@@ -2,7 +2,7 @@
   "status": 200,
   "message": "Success",
   "data": {
-    "api": "https://core.asmultiverse.app"
+    "api": "https://api.asmultiverse.app"
   },
   "success": true
 }
